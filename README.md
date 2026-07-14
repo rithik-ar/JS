@@ -16,4 +16,4 @@ Built using HTML, CSS and JavaScript :)
 
 - Converts between Celsius and Fahrenheit
 - Practices functions, DOM manipulation and conditional logic
-- Uses Flexbox for layout and custom component styling
+- Uses Flexbox for layout and custom component styling, Flexbox was fun ngl :)
