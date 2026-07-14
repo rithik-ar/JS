@@ -29,5 +29,10 @@ InputBtn.onclick = function(){
     else{
         answer = 'Check a valid box!';
     }
+
+
+//Display the result on screen later instead of logging it on the console 
+
+
 }
 
