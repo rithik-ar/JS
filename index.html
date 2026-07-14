@@ -10,14 +10,40 @@
     <h1>Number Guessing Game</h1>
     <div>
     <label>Enter a number</label>
-    <input id="input">
-    <button>Submit</button>
+    <input id="input" autocomplete="off">
+    <button id="submit">Submit</button>
     </div>
     <br>
     <div class="container">
-    <h3 id="guesses">Remaining Guesses : 3</h3>
-    <h3 id="attempts">Attempt : 1</h3>
+    <h3 id="guesses">Remaining Guesses : ---</h3>
+    <h3 id="attempts">Attempt : --- </h3>
     </div>
+    <br>
+    <br>
+    <div class="stats">
+        <span>
+        <label>Min</label>
+        <input id ="min">
+        </span>
+        <span>
+        <label>Max</label>
+        <input id="max">
+        </span>
+
+    </div>
+
+    <br>
+
+    <div>
+    <button id="start">Start Game</button>
+    </div>
+
+    <br>
+
+    <div>
+    <h2 id="result"></h2>
+    </div>
+    
     <script src="index.js"></script>
 </body>
 </html>
