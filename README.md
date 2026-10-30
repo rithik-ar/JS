@@ -15,7 +15,7 @@ Built using HTML, CSS and JavaScript :)
 ### 🌡️ Temperature Converter
 - Converts between Celsius and Fahrenheit
 - Practices functions, DOM manipulation and conditional logic
-- Uses Flexbox for layout and custom component styling, Flexbox was fun ngl :)
+- Uses Flexbox for layout and custom component styling, Flexbox was fun ngl (such a lie) :)
 
 ### 🎲 Dice Roller
 - Generates a user-specified number of dice rolls
